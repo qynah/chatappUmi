@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41063158591",
+    "project_id": "chatapp-umi",
+    "storage_bucket": "chatapp-umi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41063158591:android:6466b559b22aac7851798a",
+        "android_client_info": {
+          "package_name": "com.BTLAndroidNC.chatappumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXsLRXJKCKKwRFFTaGg-6Y2rsajrPA4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
